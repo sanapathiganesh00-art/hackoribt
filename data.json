@@ -1,0 +1,90 @@
+{
+  "blocked_domains": [
+    "github.com",
+    "facebook.com"
+  ],
+  "policies": {
+    "Chrome.exe": [
+      {
+        "domain": "*.college.edu",
+        "proto": "TCP/443",
+        "action": "allow"
+      },
+      {
+        "domain": "*",
+        "proto": "TCP/80",
+        "action": "block"
+      }
+    ],
+    "Zoom.exe": [
+      {
+        "domain": "*.zoom.us",
+        "proto": "UDP/443",
+        "action": "allow"
+      }
+    ],
+    "LMSClient.exe": [
+      {
+        "domain": "*.college.edu",
+        "proto": "TCP/443",
+        "action": "allow"
+      },
+      {
+        "domain": "*",
+        "proto": "ANY",
+        "action": "block"
+      }
+    ],
+    "uTorrent.exe": [
+      {
+        "domain": "*",
+        "proto": "ANY",
+        "action": "block"
+      }
+    ],
+    "WhatsApp.exe": [
+      {
+        "domain": "*.whatsapp.net",
+        "proto": "TCP/443",
+        "action": "allow"
+      },
+      {
+        "domain": "*",
+        "proto": "ANY",
+        "action": "block"
+      }
+    ]
+  },
+  "logs": [
+    {
+      "time": "10:25:23",
+      "application": "Zoom.exe",
+      "destination": "zoom.us",
+      "protocol": "UDP/443",
+      "action": "allow",
+      "matched_rule": "*.zoom.us"
+    },
+    {
+      "time": "10:24:49",
+      "application": "Chrome.exe",
+      "destination": "facebook.com",
+      "protocol": "TCP/80",
+      "action": "block",
+      "matched_rule": "*"
+    }
+  ],
+  "endpoints": [
+    {
+      "name": "CSE-LAB-PC-01",
+      "status": "online"
+    },
+    {
+      "name": "CSE-LAB-PC-04",
+      "status": "online"
+    },
+    {
+      "name": "DEV-LAPTOP-02",
+      "status": "online"
+    }
+  ]
+}
