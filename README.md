@@ -1,4 +1,4 @@
-<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 37 02 PM" src="https://github.com/user-attachments/assets/8a266518-589f-45e9-a20f-4c9cf3303156" /><img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 59 PM" src="https://github.com/user-attachments/assets/694e676d-a469-437e-9053-512391318a83" />
+
 # SentryWall
 
 ## 🚀 Project Overview
