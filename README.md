@@ -361,7 +361,7 @@ SentryWall/
 │
 └── 📁 architecture/
     └── System Architecture
-Login Page
+## Login Page
 
 <img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 32 PM" src="https://github.com/user-attachments/assets/46266916-d14f-459b-9881-171af04c4b6f" />
 
