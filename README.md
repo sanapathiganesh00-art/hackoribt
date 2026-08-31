@@ -361,84 +361,9 @@ SentryWall/
 │
 └── 📁 architecture/
     └── System Architecture
-Login Page
-![Uploading Screenshot 2026-08-31 at 7.36.32 PM.png…]()
 
-
-🏠 Dashboard
-<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 38 PM" src="https://github.com/user-attachments/assets/a159965a-b84f-46c4-83b1-9e45b245359d" />
-
-Console
-<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 43 PM" src="https://github.com/user-attachments/assets/50179220-c605-4b5a-bfa6-34995997ee0c" />
-
-
-🖥️ Endpoint Management
-<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 46 PM" src="https://github.com/user-attachments/assets/5e200f15-0b88-4c9f-89e7-d01484ca29e9" />
-
-📜 Policy Management
-<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 49 PM" src="https://github.com/user-attachments/assets/dd991197-bfb4-45c8-81a8-69eedc138f44" />
-
-DPI
-<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 52 PM" src="https://github.com/user-attachments/assets/eb492b4e-7796-42dd-82c8-900030fb1f08" />
-
-Logs & Analytics
-<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 56 PM" src="https://github.com/user-attachments/assets/b7f6a919-77f4-4166-b619-6faed7c2a090" />
-
-🚨 Security Alerts<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 59 PM" src="https://github.com/user-attachments/assets/c43eac0d-0ea4-40b8-bde8-e620877d34c3" />
-
-Architecture
-<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 37 02 PM" src="https://github.com/user-attachments/assets/f8e62f20-2709-4e18-8b21-42e649f4f649" />
-
-📚 Project Documentation
-The complete project documentation covers:
-Abstract
-Introduction
-Problem Statement
-Existing System
-Proposed Solution
-System Architecture
-Endpoint Agent
-Central Web Console
-Policy Engine
-Application Context Identification
-System Design
-Implementation
-Use Cases
-Testing & Validation
-Innovation & Scalability
-Future Scope
-Results & Conclusion
-
-🏆 Smart India Hackathon 2026
-Details	Information
-Event	Smart India Hackathon 2026
-Project	SentryWall
-Problem Statement ID	SIH1741
-Theme	Cybersecurity
-Category	Software
-Team Name	HackOrbit
-Institution	GITAM School of Science
-Department	MCA
-
-
-👥 Team HackOrbit
-👨‍💻 Team Leader
-Sanapathi Ganesh
-👨‍💻 Team Members
-Adyasha Behera
-Roshani Bhoi
-Priyanka Patra
-G. Durga Prasad
-CH. Revanth
-👩‍🏫 Mentor
-Anu Sharma
-
-
-🎯 Conclusion
-SentryWall demonstrates a centralized approach to application-aware network security.
-Instead of only monitoring where network traffic is going, SentryWall adds the ability to understand:
-Which application generated the traffic, where it is going, and whether the connection should be allowed or blocked.
-By combining an Endpoint Agent, Policy Engine, Central Web Console, event logging, and security alerts, SentryWall provides a foundation for centralized application-aware endpoint security.
+Login Page:
+<img width="1470" height="956" alt="Screenshot 2026-08-31 at 7 36 32 PM" src="https://github.com/user-attachments/assets/a8a3bfcf-a936-4d76-bc74-20fcb134a098" />
 
 
 
